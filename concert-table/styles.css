@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+thead {
+    background-color: yellow;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+tfoot {
+    background-color: rgb(34, 125, 178);
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
