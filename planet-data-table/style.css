@@ -38,3 +38,10 @@ caption {
 .column-border {
   border: 2px solid black;
 }
+
+div {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 40px;
+  font-weight: 900;
+}
